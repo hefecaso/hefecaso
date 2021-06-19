@@ -1,6 +1,8 @@
 ### Hi there, I'm Fernando 👋
 
 
+![Yellow and Black Paper Maximalist Twitch Banner](https://user-images.githubusercontent.com/42860191/122629021-211a7600-d077-11eb-9293-8f2b4911cca2.png)
+
 
 
 <!--
