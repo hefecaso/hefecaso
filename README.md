@@ -1,7 +1,8 @@
 ### Hi there, I'm Fernando 👋
 
 
-![Yellow and Black Paper Maximalist Twitch Banner](https://user-images.githubusercontent.com/42860191/122629021-211a7600-d077-11eb-9293-8f2b4911cca2.png)
+![Yellow and Black Paper Maximalist Twitch Banner](https://user-images.githubusercontent.com/42860191/122629231-ae11ff00-d078-11eb-941a-1ff63a9c78d3.png)
+
 
 I'm a engineer electronic student and passionate about robotics.
 
