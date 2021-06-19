@@ -3,7 +3,15 @@
 
 ![Yellow and Black Paper Maximalist Twitch Banner](https://user-images.githubusercontent.com/42860191/122629021-211a7600-d077-11eb-9293-8f2b4911cca2.png)
 
+I'm a engineer electronic student and passionate about robotics.
 
+I am learning to speak in English, my mother tongue is Latin Spanish.
+
+Currently I have the position as president of the chapter of "Robotics and Automation Society" of the IEEE student branch at the University of San Carlos de Guatemala.
+
+I love designing in 3D, programming in python, and competing in robotics tournaments.
+
+My hobbies? Music, I am a violinist and opera singer, although I currently dedicate myself a lot to university.
 
 <!--
 **hefecaso/hefecaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
