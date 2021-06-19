@@ -14,6 +14,7 @@ I love designing in 3D, programming in python, and competing in robotics tournam
 
 My hobbies? Music, I am a violinist and opera singer, although I currently dedicate myself a lot to university.
 
+                                  🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 <!--
 **hefecaso/hefecaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
