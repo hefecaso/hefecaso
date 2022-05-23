@@ -1,4 +1,4 @@
-### Hi there, I'm Fernando 👋
+# Hi there, I'm Fernando 👋
 
 
 ![Yellow and Black Paper Maximalist Twitch Banner](https://user-images.githubusercontent.com/42860191/122629231-ae11ff00-d078-11eb-941a-1ff63a9c78d3.png)
@@ -6,7 +6,7 @@
 
 I'm a engineer electronic student and passionate about robotics.
 
-I am learning to speak in English, my mother tongue is Latin Spanish.
+I am learning to speak in English, my native language is Latin Spanish.
 
 Currently I have the position as president of the chapter of "Robotics and Automation Society" of the IEEE student branch at the University of San Carlos de Guatemala.
 
